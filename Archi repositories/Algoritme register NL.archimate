@@ -88,7 +88,7 @@
     <element xsi:type="archimate:BusinessRole" name="Bevoegd gezag" id="id-e11dc97cd99547c7824fabadd408b027"/>
     <element xsi:type="archimate:BusinessRole" name="Opdrachtgever" id="id-4ae11db8f1df4034a25c6adf04ffc301"/>
     <element xsi:type="archimate:BusinessRole" name="Uitvoeringspartner" id="id-ce0903b2db5445b3b28b21d0e37b9cea"/>
-    <element xsi:type="archimate:BusinessObject" name="Algoritme toepassing" id="id-35b639f30f83445499a5cb6f48515330"/>
+    <element xsi:type="archimate:BusinessObject" name="Algoritmische toepassing" id="id-35b639f30f83445499a5cb6f48515330"/>
   </folder>
   <folder name="Application" id="3e1a5ee1-8688-4f7d-9d34-9783e2566b23" type="application">
     <element xsi:type="archimate:DataObject" name="Algoritme databank" id="3b8b3f1f-d355-4caf-87a9-2a245b2f50c5">
